@@ -1,7 +1,7 @@
 0x0B. SSH
 =========
 
--   By Sylvain Kalache
+-   By David Mbugua
 -   Weight: 1
 
 Background Context
